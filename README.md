@@ -2,7 +2,7 @@
 
 In his class Mathematics and Statistics of Gambling, Persi Diaconis, without having attempted the problem himself, asked students to derive the optimal strategy for guessing the order of a deck of cards with feedback after one overhead shuffle. Optimal in this sense corresponds to guessing the highest number of cards correct on expectation. He also asked for students to guess (without proof) the optimal strategy for guessing the order of the deck with feedback after one riffle shuffle. In Persi Diaconis’ paper “Trailing The Dovetail Shuffle To Its Lair”, Diaconis outlines a guessing strategy developed by McGrath for guessing the order of a deck of cards after k riffle shuffles. The 8th open problem in Diaconis’ paper “Mathematical Developments From the Analysis of Riffle Shuffling” is to prove that McGrath ‘s strategy is optimal.
 
-As my final project for his class, I began researching these problems. These are up to date notes on my findings.
+As my final project for his class, I began researching these problems. These are up to date notes on my findings. All work has been done independently.
 
 
 # Results
