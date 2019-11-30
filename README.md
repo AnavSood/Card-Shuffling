@@ -10,4 +10,4 @@ As my final project for his class, I began researching these problems. These are
 We develop some theory surrounding proving a guessing strategy is optimal. Then we find the provably optimal strategy for guessing the order of a deck of cards after one overhead shuffle, as well as a closed form for the expected number of cards that are guessed correctly. We then derive that provably optimal strategy for guessing the order of a deck of cards after one riffle shuffle, and doing so confirm that McGrath was correct in the case that k=1. We provide a brief discussion on how one may extend the riffle shuffle result to k > 1. This is the most promising avenue of future work. 
 
 
-Results given [here](https://github.com/AnavSood/Card-Shuffling/blob/master/Notes%20on%20Optimal%20Guessing%20Strategy%20for%20a%20Shuffled%20Deck%20of%20Cards.pdf
+Results given [here](https://github.com/AnavSood/Card-Shuffling/blob/master/Notes%20on%20Optimal%20Guessing%20Strategy%20for%20a%20Shuffled%20Deck%20of%20Cards.pdf)
