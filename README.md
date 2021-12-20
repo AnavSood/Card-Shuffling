@@ -1,6 +1,6 @@
 # Motivation
 
-In his class Mathematics and Statistics of Gambling (MATH 231/STATS 334), Persi Diaconis posed the following two problems as extra credit:
+In his class Mathematics and Statistics of Gambling (MATH 231/STATS 334 in 2018), Persi Diaconis posed the following two problems as extra credit:
 
 1. Determine the optimal strategy for guessing the order of a deck of cards with feedback after one overhead shuffle.
 2. Provide a guess for what the optimal strategy is for guessing the order of a deck of cards with feedback after one riffle shuffle. 
